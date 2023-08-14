@@ -1,7 +1,9 @@
 # SillyTavern-Clewd-auto
-一个酒馆和Clewd小白专用的一键启动脚本
+一个酒馆和Clewd的小白专用一键启动脚本
 
 未对SillyTavern和Clewd进行修改
+
+**有问题或有想法先发issues，我看到了就会回，着急可以去爱发电，这样我会更快看到**
 
 本脚本完全免费，且已使用CC-BY-NC-ND许可证，倒卖会追究法律责任
 
