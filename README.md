@@ -1,5 +1,10 @@
 # SillyTavern-Clewd-auto
+
+# 介绍
+
 一个酒馆和Clewd的小白专用一键启动脚本
+
+新名：灵钥 - 一键开启Claude2酒馆之门
 
 未对SillyTavern和Clewd进行修改
 
@@ -9,6 +14,8 @@
 
 为了防止公益死的快，付费被人骂，现开启爱发电，赞助可以获得Q&A，帮忙部署，抢先版本和加入到下一个版本程序的赞助名单中 之类的特权
 
-[抢先版本](https://github.com/LINKlang/SillyTavern-Clewd-auto-vip3)拥有更多功能和最新的更新
-
 爱发电地址：https://afdian.net/a/silly_clewd_auto
+
+# 使用方法
+
+下载all.zip，解压后运行程序即可
