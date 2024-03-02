@@ -8,7 +8,7 @@
 
 未对SillyTavern和Clewd进行修改
 
-**有问题或有想法先发issues，我看到了就会回，着急可以去爱发电，这样我会更快看到**
+**有问题或有想法先发issues，我看到了就会回，着急可以去qq或爱发电，这样我会更快看到**
 
 本脚本完全免费，且已使用CC-BY-NC-ND许可证，倒卖会追究法律责任
 
@@ -19,3 +19,5 @@
 <h2>使用方法</h2>
 
 下载all.zip，解压后运行程序即可
+
+[教程链接](https://sqivg8d05rm.feishu.cn/wiki/QupDwUGhJiiZP6kLfuDcit3LnRg?from=from_copylink)
