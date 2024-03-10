@@ -1,6 +1,6 @@
-<h1>SillyTavern-Clewd-auto</h1>
+# SillyTavern-Clewd-auto
 
-<h2>介绍</h2>
+## 介绍
 
 一个酒馆和Clewd的小白专用一键启动脚本
 
@@ -21,3 +21,10 @@
 下载all.zip，解压后运行程序即可
 
 [教程链接](https://sqivg8d05rm.feishu.cn/wiki/QupDwUGhJiiZP6kLfuDcit3LnRg?from=from_copylink)
+
+## 待完成列表
+以下列表为脚本后续会添加/修复的功能
+可以在 https://github.com/LINKlang/SillyTavern-Clewd-auto/issues/1 中留言希望添加的功能
+
+- [ ] **GUI(图形化页面)**
+- [ ] 完善备份和恢复功能
