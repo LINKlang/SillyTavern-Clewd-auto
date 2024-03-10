@@ -4,11 +4,11 @@
 
 一个酒馆和Clewd的小白专用一键启动脚本
 
-新名：灵钥 - 一键开启Claude2酒馆之门
+新名：灵钥 - 一键开启Claude酒馆之门
 
-未对SillyTavern和Clewd进行修改
+未对SillyTavern和Clewd本体进行修改
 
-**有问题或有想法先发issues，我看到了就会回，着急可以去qq或爱发电，这样我会更快看到**
+**有问题或有想法先发[issues](https://github.com/LINKlang/SillyTavern-Clewd-auto/issues)，我看到了就会回，着急可以去qq或爱发电**
 
 本脚本完全免费，且已使用CC-BY-NC-ND许可证，倒卖会追究法律责任
 
@@ -24,7 +24,7 @@
 
 ## 待完成列表
 以下列表为脚本后续会添加/修复的功能
-可以在 https://github.com/LINKlang/SillyTavern-Clewd-auto/issues/1 中留言希望添加的功能
+<h3>可以在 https://github.com/LINKlang/SillyTavern-Clewd-auto/issues/1 中留言希望添加的功能</h3>
 
 - [ ] **GUI(图形化页面)**
 - [ ] 完善备份和恢复功能
