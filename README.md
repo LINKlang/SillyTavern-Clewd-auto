@@ -8,7 +8,7 @@
 
 未对SillyTavern和Clewd本体进行修改
 
-**有问题或有想法先发[issues](https://github.com/LINKlang/SillyTavern-Clewd-auto/issues)，我看到了就会回，着急可以去qq或爱发电**
+**有问题或有想法先发[issues](https://github.com/LINKlang/SillyTavern-Clewd-auto/issues)，我看到了就会回**
 
 本脚本完全免费，且已使用CC-BY-NC-ND许可证，倒卖会追究法律责任
 
