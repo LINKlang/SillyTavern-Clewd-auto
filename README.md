@@ -27,5 +27,6 @@
 <h3>可以在 https://github.com/LINKlang/SillyTavern-Clewd-auto/issues/1 中留言希望添加的功能</h3>
 
 - [ ] **GUI(图形化页面)**
-- [ ] 完善备份和恢复功能
+- [ ] 完善备份和恢复模块
 - [ ] 修改nodejs检测模块
+- [ ] 修复clewd恢复模块
