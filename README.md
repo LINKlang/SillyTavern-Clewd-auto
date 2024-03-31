@@ -20,7 +20,7 @@
 
 下载all.zip，解压后运行程序即可
 
-[教程链接](https://sqivg8d05rm.feishu.cn/wiki/QupDwUGhJiiZP6kLfuDcit3LnRg?from=from_copylink)
+一键脚本[教程链接](https://sqivg8d05rm.feishu.cn/wiki/QupDwUGhJiiZP6kLfuDcit3LnRg?from=from_copylink)
 
 ## 待完成列表
 以下列表为脚本后续会添加/修复的功能
@@ -30,3 +30,4 @@
 - [x] 完善备份和恢复模块
 - [x] 修改nodejs检测模块
 - [ ] 修复clewd恢复模块
+- [ ] 注册/登陆 报错后保存当前页面截图和log
